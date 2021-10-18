@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/drawable/bg_input.xml" value="0.22552083333333334" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/drawable/hiasan_bagian_atas_putih.xml" value="0.22552083333333334" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/drawable/ic_calendar.xml" value="0.22552083333333334" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/drawable/input.xml" value="0.22552083333333334" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/layout/activity_edit.xml" value="0.209375" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/layout/activity_simpan.xml" value="0.22" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/layout/activity_tampil.xml" value="0.209375" />
+        <entry key="..\:/KMMI KOTLIN/TugasAkhir_KMMI/app/src/main/res/layout/custom_tampil.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
